@@ -1,6 +1,6 @@
 '''
 Important!!! Any change in this file - please do in
-D:\\Users\\AA\\code\\MyPythonApps\\renameFileNamesAddCreationDate
+D:\\Users\\AA\\Unbacked2cloud\\Code\\GitHub\\MyPythonApps\\renameFileNamesAddCreationDate
 and then copy the latest version to the HP Scans destination folder (D:\\Users\\AA\\Pictures\\Scan_docs\\HP_SCANS)
 The latest version in D:\\Users\\AA\\code\\MyPythonApps\\renameFileNamesAddCreationDate is maintained by git and pushed to my github repo
 https://github.com/amita1974/MyPythonScripts
